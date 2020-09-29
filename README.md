@@ -1,5 +1,5 @@
 ### ABOUT
-Hello my name is Chibuokem Jerry and I'm a final year student of the University of Nigeria. I'm studying Electronic Engineering and have some coding experience as a full-stack (front-end heavy) web developer. I also have some experience with C, C++ and matlab. I do have Interest cutting accross programming, Economics and Finance (though no solid experience here, yet), but would love to seize any opportunity to explore and build a career around the intersection of these fields.
+Hello my name is Chibuokem Jerry and I'm a final year Electronic Engineering student at the University of Nigeria. I have some programming experience as a full-stack (front-end heavy) web developer. I also have some experience with C, C++ and matlab. My Interests cuts accross programming, Economics and Finance (though I have no solid experience here, yet), but would love to seize any opportunity to explore and build a career around the intersection of these fields.
 
 ### TEST SUBMISSIONS
 
